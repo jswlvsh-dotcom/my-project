@@ -1,4 +1,4 @@
-# my-project# My Creative Tools Project
+my-project# My Creative Tools Project
 
 This repository contains creative tools and resources for video editing and VFX.
 
